@@ -1,0 +1,88 @@
+xclogparser parse --project CodelessLabs --reporter html
+
+//https://paul-samuels.com/blog/2019/01/07/swift-codable-testing/   
+//TODO: testing models http://swiftyjimmy.com/unit-test-mvvm-in-swift/
+//TODO: end to end https://www.swiftbysundell.com/posts/writing-end-to-end-json-mapping-tests-in-swift
+
+//INTERESTING TOOLS:
+//TODO: GSKStretchyHeaderView
+//https://github.com/maxkonovalov/MKGradientView
+//https://docs.fastlane.tools/plugins/available-plugins/
+//https://github.com/rwbutler/FeatureFlags
+//https://github.com/HazAT/fastlane-plugin-badge
+//https://github.com/pajapro/fastlane-plugin-changelog
+//https://github.com/danger/danger
+//live preview https://nshipster.com/swiftui-previews/
+
+//MAYBE:
+https://github.com/JonasGessner/JGProgressHUD
+
+//RESIGN
+// bitrise, find a way to be able to install the app (if possible)
+// https://altstore.org/, https://github.com/maciekish/iReSign,
+// https://gowithfloat.com/2011/11/re-signing-an-ios-app-without-xcode/
+// https://blog.kulman.sk/resigning-ios-apps/
+// http://dev.mlsdigital.net/posts/how-to-resign-an-ios-app-from-external-developers/
+
+//ANIMATION:
+https://github.com/jhurray/JHChainableAnimations
+https://github.com/facebook/pop
+https://github.com/Draveness/DKChainableAnimationKit
+https://github.com/icanzilb/EasyAnimation
+https://github.com/MengTo/Spring
+https://github.com/willowtreeapps/spruce-iosre
+
+https://github.com/marcosgriselli/ViewAnimator < looks good
+https://github.com/AAChartModel/AAChartKit-Swift
+
+//TODO: there's a discrepancy in the notch support for the sports app
+//due to topbar is transparent, but header gets extra height, but collectionview elements not...
+//probably best is remove feature_notch..
+
+//OAUTH REDIRECT
+We need that the redirect url is a custom scheme, universal links do not work unlesss is triggered by a user.
+Maybe could work a redirect html page, that has a button than the user click on it to return to the app, but need to have the return code, etc..
+The easier is use custom scheme url, the redirect url could be overwritten in the AuthManager class
+On the previewer we setup two custom url one for the previewer auth0 login
+and the other for the auth login, not sure which one will be better to use...
+
+for strava the redirect url is checked for domain, not scheme, so it's ok to use custom scheme url
+
+//Universal link issues
+https://openradar.appspot.com/51091611
+https://stackoverflow.com/questions/42771726/universal-links-with-redirects-not-working-in-ios/48198202#48198202
+https://github.com/lapinek/oauth-2-universal-links
+https://medium.com/wolox/ios-deep-linking-url-scheme-vs-universal-links-50abd3802f97
+https://medium.com/mobile-growth/the-things-i-hate-and-you-should-know-about-apple-universal-links-5beb15f88a29
+
+//validators
+https://search.developer.apple.com/appsearch-validation-tool
+
+//ISSUES
+//TODO: add a script for copying the bundle assets on archiving instead than building previewer
+//TODO: limit monkey tapping
+//TODO: previewer should support all rotations and limit rotation when an app is scanned
+//TODO: move userdefaults to CLDatabase
+//TODO: no connection error page
+//TODO: stop download assets if unlink
+//TODO: improve svg, gif tests
+//TODO: check improving aspect ratio
+//TODO: review reusing on long lists
+//TODO: try to improve scrolling, https://medium.com/capital-one-tech/boost-smooth-scrolling-with-ios-10-pre-fetching-api-818c25cd9c5d
+//TODO: deep linking, push notifications
+//TODO: check touch just after dismiss unlink page
+//TODO: review refresh tokens
+//TODO: review if need to load oauths if app was closed
+//TODO: need to know if a request needs an oauth
+//TODO: maybe add banner with error codes? for post, etc..
+
+cases covered
+- user authenticates, change app, oauths should be saved
+- user authenticates, kill the app, oauths are not there, but will be rebuilt on loadApp
+
+need to fix
+- user authenticates, remove app, keychain need to be removed on start again!!!
+- tokens need to be refreshed before each api call
+
+- refreshtoken on auth0
+expiresIn check, as is not modified when trying to force refresh tokens

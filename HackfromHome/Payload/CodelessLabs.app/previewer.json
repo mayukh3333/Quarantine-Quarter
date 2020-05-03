@@ -1,0 +1,3532 @@
+{
+    "jsonVersion": "1.0",
+    "id": "01DZ45B3ZB6P5M1WB44NY803ZJ",
+    "hash": "",
+    "version": "281509732",
+    "lastUpdate": "2020-03-26T16:36:06.303Z",
+    "app": {
+        "store": {
+            "name": "Bravo Vision (2020) - Linked",
+            "icon": "https://images-dev.bravostudio.app/mPkcRIY36cagvcrJqYPaO4APc8T4-lG7lB4e5PiVq1o/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ1QjNaVDVSNTE0S1RKOFc4R0NTQzAucG5n",
+            "splash": "https://images-dev.bravostudio.app/djU5TtCKr2ICODWDi-iPldN-P_a6Y3LhgGy95SwR2N0/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFFM1NRSkVQQ0dLQ0tQTjVQNks3VFZZWkgucG5n",
+            "bundleId": "app.bravostudio.A01DZ45B3ZB6P5M1WB44NY803ZJ",
+            "description": ""
+        },
+        "features": {
+            "auth": false,
+            "watermark": true
+        },
+        "fonts": [
+            {
+                "id": "01E4BV6M94GC8FR8660FDD09B7",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E0X2HYEEG9N6JMEYE7F5JRKG-1E0T2HUEF-file"
+            },
+            {
+                "id": "01E25XVWH9H0MT84FDN5WVMC35",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E25XVWH9H0MT84FDN5WVMC35"
+            },
+            {
+                "id": "01E25XVWH5K9HN5CRD3S4XKBZQ",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E5AV7B24WBZ2T8AJG6SNVJMR-1E5AR7B25-file"
+            },
+            {
+                "id": "01E25XVWH2JXKYCTEBH9AS1A74",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01E5AV6R7JZDCDQHEKTBSJ6R91-1E5AR6O7J-file"
+            },
+            {
+                "id": "01DZ45B3ZJYCQB9HWB462XQXC1",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01DZXF05RVBVXQHS7XJESCBAN7-1E1C9VQM1-file"
+            },
+            {
+                "id": "01DZ45B3ZH3PSYYWPD8GRWZNTC",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/UGQX392MWSKSE5AZDVMPR6F9P1JX862H8/01DZXEYYDQ10WMZR9M52ZEYCA5-1E1CA095S-file"
+            }
+        ],
+        "assets": [
+            {
+                "id": "01E4BV6MFGN9TRQRXRPWM1J372",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/8bdu-uIDhF9-fCM2h1tmlIDmhEiX3OWH51RIN98eNxQ/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFFNEJWNk1GR045VFJRUlhSUFdNMUozNzIuanBlZw"
+            },
+            {
+                "id": "01E4BV6M8MZ41A5XVE96AN6HDY",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E4BV6M8MZ41A5XVE96AN6HDY.svg"
+            },
+            {
+                "id": "01E4BV6M8KTMHT5DW0AYK3F2WZ",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E4BV6M8KTMHT5DW0AYK3F2WZ.svg"
+            },
+            {
+                "id": "01E4408JZSMTE1ZWFTKVC94E2P",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E4408JZSMTE1ZWFTKVC94E2P.svg"
+            },
+            {
+                "id": "01E3SQJEPCGKCKPN5P6K7TVYZH",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/djU5TtCKr2ICODWDi-iPldN-P_a6Y3LhgGy95SwR2N0/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFFM1NRSkVQQ0dLQ0tQTjVQNks3VFZZWkgucG5n"
+            },
+            {
+                "id": "01E2DACQV8Z1534X6TA0SYSPTF",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E2DACQV8Z1534X6TA0SYSPTF.svg"
+            },
+            {
+                "id": "01E25XVWHF5R85C6VC15Y4PSWR",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E25XVWHF5R85C6VC15Y4PSWR.svg"
+            },
+            {
+                "id": "01E25XVWHAVN73701WN1NM5KXS",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E25XVWHAVN73701WN1NM5KXS.svg"
+            },
+            {
+                "id": "01E25XVWH7QAH3QQD5S05YZZAR",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E25XVWH7QAH3QQD5S05YZZAR.svg"
+            },
+            {
+                "id": "01E0Z00C2MXQF4PDRPGERAYDSM",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01E0Z00C2MXQF4PDRPGERAYDSM.svg"
+            },
+            {
+                "id": "01E0WT6Z1JD3HVAPN6K2PNGQM7",
+                "type": "image",
+                "url": "https://media.giphy.com/media/l2QE50jSRSuRYUYWA/giphy.gif"
+            },
+            {
+                "id": "01E0WSGV9H2KPQ3K67H43RFVZG",
+                "type": "image",
+                "url": "https://media.giphy.com/media/uWA0n6EQy5HxLS6Zni/giphy.gif"
+            },
+            {
+                "id": "01E0R2VTE3GXV1WYJV44JGZQP2",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/Kr8cUjq829kMdjq-Qb_tlwDQ9XmzdDB_IcnEcLIogtw/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFFMFIyVlRFM0dYVjFXWUpWNDRKR1pRUDIucG5n"
+            },
+            {
+                "id": "01DZVKSPF0QSBE7GQBYQJM7YW7",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZVKSPF0QSBE7GQBYQJM7YW7.svg"
+            },
+            {
+                "id": "01DZVKSPE993VE4N7CT8R5Q846",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZVKSPE993VE4N7CT8R5Q846.svg"
+            },
+            {
+                "id": "01DZVKSPE63E0VHE3AQ174S9A2",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZVKSPE63E0VHE3AQ174S9A2.svg"
+            },
+            {
+                "id": "01DZVKSPE5VKQAHSSVB64DTT5S",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZVKSPE5VKQAHSSVB64DTT5S.svg"
+            },
+            {
+                "id": "01DZ6SWW8FR1S7FJEA9ADSKS9X",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ6SWW8FR1S7FJEA9ADSKS9X.svg"
+            },
+            {
+                "id": "01DZ6SWW87YJ54850JJ3Y8AYM6",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ6SWW87YJ54850JJ3Y8AYM6.svg"
+            },
+            {
+                "id": "01DZ6SWW7YW6W8E4AG9CVGK38K",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ6SWW7YW6W8E4AG9CVGK38K.svg"
+            },
+            {
+                "id": "01DZ46TS55NNYM0BC3PM5GM68X",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/LNphGeuFOwGo2O-CWZ84VdOLJQCQ0ExqO2tjs1cL8PU/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ2VFM1NU5OWU0wQkMzUE01R002OFgucG5n"
+            },
+            {
+                "id": "01DZ46TS52Y0556YYDZH1SF8B5",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/2d7Vo5Y9xEqdiSV2Pcc-yaiGGhPLzL-HJWTh3Ldr9RE/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ2VFM1MlkwNTU2WVlEWkgxU0Y4QjUucG5n"
+            },
+            {
+                "id": "01DZ46TS4WM8C6G61DY95B16FC",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/VyHefS8G6IUkdssgVt6m3gRXSvpcgiTvoMc-IfuZZQ0/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ2VFM0V004QzZHNjFEWTk1QjE2RkMucG5n"
+            },
+            {
+                "id": "01DZ46TS4SX705KMBGEMZ736D5",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/7qaIFvrT9hl_29WQcrLkJc-IteCcG0UGLa7Rx30dqY4/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ2VFM0U1g3MDVLTUJHRU1aNzM2RDUucG5n"
+            },
+            {
+                "id": "01DZ46TS2GKVXSYPADQZNC71DG",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ46TS2GKVXSYPADQZNC71DG.svg"
+            },
+            {
+                "id": "01DZ46TS28T1Q4QX1H3PE4J1DT",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ46TS28T1Q4QX1H3PE4J1DT.svg"
+            },
+            {
+                "id": "01DZ46TS11VPMH07SJQK4QCVB6",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ46TS11VPMH07SJQK4QCVB6.svg"
+            },
+            {
+                "id": "01DZ46TS0Y2DYHKZDRS8P2FNSS",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ46TS0Y2DYHKZDRS8P2FNSS.svg"
+            },
+            {
+                "id": "01DZ46TS0MGTM87Y15287RCXWQ",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ46TS0MGTM87Y15287RCXWQ.svg"
+            },
+            {
+                "id": "01DZ45B425QAH1KFRNDHYXK954",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/xVB4wwsww-l8RpatdKBtjzt0_8-8GkQPGodd58s4Ryw/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ1QjQyNVFBSDFLRlJOREhZWEs5NTQucG5n"
+            },
+            {
+                "id": "01DZ45B424F3TSV0WF8BKPZE2Y",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/vMs-ldncadBcUf95Kt_-7ZyJDgIH1pKdH_hM_oZHGcY/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ1QjQyNEYzVFNWMFdGOEJLUFpFMlkucG5n"
+            },
+            {
+                "id": "01DZ45B41B91WWM6C3S8DEAVFA",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B41B91WWM6C3S8DEAVFA.svg"
+            },
+            {
+                "id": "01DZ45B4112RCJ5VWAETHPZ4VR",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B4112RCJ5VWAETHPZ4VR.svg"
+            },
+            {
+                "id": "01DZ45B40PNFWYVCA93942XDAH",
+                "type": "image",
+                "url": "https://media.giphy.com/media/9faJZhyT42BWg/giphy.gif"
+            },
+            {
+                "id": "01DZ45B40JJNTGB3GAWE1CJ42F",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B40JJNTGB3GAWE1CJ42F.svg"
+            },
+            {
+                "id": "01DZ45B40J3T7W6VFR1EWJ277J",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B40J3T7W6VFR1EWJ277J.svg"
+            },
+            {
+                "id": "01DZ45B40HMS9W111PMXHHCDXA",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B40HMS9W111PMXHHCDXA.svg"
+            },
+            {
+                "id": "01DZ45B40F52DK9BSWY086AD82",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B40F52DK9BSWY086AD82.svg"
+            },
+            {
+                "id": "01DZ45B40FG523RV6KV11H6AZW",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B40FG523RV6KV11H6AZW.svg"
+            },
+            {
+                "id": "01DZ45B40DVBBVV7R6NFQ96KFZ",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B40DVBBVV7R6NFQ96KFZ.svg"
+            },
+            {
+                "id": "01DZ45B404W9E3R6YYA2EPZ040",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B404W9E3R6YYA2EPZ040.svg"
+            },
+            {
+                "id": "01DZ45B3ZQ6M71DHCR6W1SRENW",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B3ZQ6M71DHCR6W1SRENW.svg"
+            },
+            {
+                "id": "01DZ45B3ZPEDYMJV6NH30E0ZKE",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B3ZPEDYMJV6NH30E0ZKE.svg"
+            },
+            {
+                "id": "01DZ45B3ZKXXVH9KBRJVMPQPY8",
+                "type": "svg",
+                "url": "https://dev-bravo-apps-assets.s3.eu-central-1.amazonaws.com/01DZ45B3ZB6P5M1WB44NY803ZJ/01DZ45B3ZKXXVH9KBRJVMPQPY8.svg"
+            },
+            {
+                "id": "01DZ45B3ZT5R514KTJ8W8GCSC0",
+                "type": "image",
+                "url": "https://images-dev.bravostudio.app/mPkcRIY36cagvcrJqYPaO4APc8T4-lG7lB4e5PiVq1o/g:sm/MDFEWjQ1QjNaQjZQNU0xV0I0NE5ZODAzWkovMDFEWjQ1QjNaVDVSNTE0S1RKOFc4R0NTQzAucG5n"
+            }
+        ],
+        "styles": [
+            {
+                "id": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                "width": 100,
+                "height": 100
+            },
+            {
+                "id": "04XV685Z7YNJWTZFCJZ0G0KX7VARQZ1D",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fffff3c5"
+            },
+            {
+                "id": "1TCG3FWJVJ5WYBDQK8449E8H5889RKDB",
+                "width": 100,
+                "height": 12.438423645320198,
+                "aspectRatio": 3.712871287128713,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "TD3F2P9ET921AKEJSX9ZW64MHW5K23ZR",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 32.67326732673268,
+                    "left": 3.2,
+                    "right": 84,
+                    "bottom": 19.801980198019802
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "4M3CG8725BTP0NCGAS7FNBS1Y1R17MAW",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 46.524752475247524,
+                    "left": 6.930666666666666,
+                    "right": 87.736,
+                    "bottom": 33.67326732673268
+                }
+            },
+            {
+                "id": "828P8AZ96TQZVGH0B87PPPABJRRRANQ4",
+                "color": "#ff490d82",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 37.62376237623762,
+                    "left": 24.8,
+                    "right": 24.53333333333333,
+                    "bottom": 25.742574257425744
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "J71KPE49EGJC8ZTFY1FFGXVWV5QZGA0X",
+                "width": 100,
+                "height": 11.69950738916256,
+                "aspectRatio": 3.9473684210526314,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "R6B8MQVQ757QE8JF397VPN8GQ7VJEGRW",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 15.789473684210526,
+                    "left": 6.933333333333333,
+                    "right": 75.73333333333333,
+                    "bottom": 15.789473684210526
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "MPYE6QVPKFGK1M10A8WGMVDN657T75F6",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 19.93626644736842,
+                    "left": 7.983854166666666,
+                    "right": 75.73331807454427,
+                    "bottom": 15.789413452148438
+                },
+                "backgroundColor": "#ff50e3c2"
+            },
+            {
+                "id": "R6S8JFYGM7CP7PWZKHEK2C3XAAW4VPAK",
+                "scaleMode": "fill",
+                "aspectRatio": 1,
+                "borderColor": "#ff000000",
+                "borderWidth": 3.275434348591284,
+                "positioning": {
+                    "top": 15.789473684210526,
+                    "left": 6.933333333333333,
+                    "right": 76.7838389078776,
+                    "bottom": 19.93620621530633
+                }
+            },
+            {
+                "id": "W5827BWVWW1HW491X632HMHST0MN9G06",
+                "color": "#ff490d82",
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 7.111111111111111,
+                "positioning": {
+                    "top": 24.210526315789473,
+                    "left": 28.799999999999997,
+                    "right": 20.533333333333335,
+                    "bottom": 49.473684210526315
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "8BYX4SGFG9QNN9J5PZQVZKNPTWKKRHGA",
+                "color": "#ff490d82",
+                "fontSize": 14,
+                "textAlign": "left",
+                "fontWeight": 300,
+                "lineHeight": 171.42857360839844,
+                "aspectRatio": 5.1891891891891895,
+                "positioning": {
+                    "top": 47.368421052631575,
+                    "left": 28.799999999999997,
+                    "right": 20.533333333333335,
+                    "bottom": 15.789473684210526
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top",
+                "fontId": "01E4BV6M94GC8FR8660FDD09B7"
+            },
+            {
+                "id": "QB8PT450P0M723CNN34H8Z84MC672HE6",
+                "opacity": 0,
+                "aspectRatio": 3.136842105263158,
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 20.533333333333335,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffc4c4c4"
+            },
+            {
+                "id": "YWXY42SA12AE3WC340RQ6GCYWQ6V96Z6",
+                "opacity": 0,
+                "aspectRatio": 0.8105263157894737,
+                "positioning": {
+                    "top": 0,
+                    "left": 79.46666666666667,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffc4c4c4"
+            },
+            {
+                "id": "WHVBSGEJRB0AYR738SN2A13B5G4E8WCD",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fffef8e4"
+            },
+            {
+                "id": "DB41MFWFJZMG7WEJP6ADYWRGYJZN0G8R",
+                "width": 100,
+                "height": 12.068965517241379,
+                "overlay": true,
+                "aspectRatio": 3.826530612244898,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "MAC77YF7V27D6PYJC1QM6N8531GCJKX8",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 47.95918367346938,
+                    "left": 6.933333333333333,
+                    "right": 87.73333333333333,
+                    "bottom": 31.63265306122449
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                "width": 100,
+                "height": 100,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "W7PPQ47MJQSY0BWPCRAWCDZVFP57AYCX",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 3.417910447761194,
+                "positioning": {
+                    "top": 51.970443349753694,
+                    "left": 19.2,
+                    "right": 20.266666666666666,
+                    "bottom": 40.02463054187192
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "Y6C05R0QQK0G9VG9KN3E0P8TTA0J3E23",
+                "color": "#ff056d38",
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 4.2368421052631575,
+                "positioning": {
+                    "top": 43.84236453201971,
+                    "left": 7.199999999999999,
+                    "right": 7.466666666666668,
+                    "bottom": 47.04433497536946
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "9366JBNR7Q38Z5FY8781HCJ919ZWF1CC",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 23.39901477832512,
+                    "left": 28.53333333333333,
+                    "right": 28.799999999999997,
+                    "bottom": 56.896551724137936
+                }
+            },
+            {
+                "id": "QRDD54XKJRKQ5TK7YHCCYSWNBFV23TGW",
+                "scaleMode": "fit",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 24.014778325123153,
+                    "left": 30.133333333333333,
+                    "right": 29.86666666666667,
+                    "bottom": 57.512315270935964
+                }
+            },
+            {
+                "id": "PN985DT161ZF54QWQ6JR43K0HRKRDWE0",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffecfee4"
+            },
+            {
+                "id": "GAS018F44Y1P2V2E7TRAVP61WT2Z89E8",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 3.5348837209302326,
+                "positioning": {
+                    "top": 44.21182266009852,
+                    "left": 9.866666666666667,
+                    "right": 9.6,
+                    "bottom": 45.44334975369458
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "center"
+            },
+            {
+                "id": "HPQTT8WFX0X59VTF0C2JXD7N7MNBD9MG",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffe4e5fe"
+            },
+            {
+                "id": "NZ6QDS0EBVXS94AYPW2NS1Y27EG3ZXW7",
+                "aspectRatio": 0.5,
+                "positioning": {
+                    "top": 41.83673469387755,
+                    "left": 6.666666666666667,
+                    "right": 89.33333333333333,
+                    "bottom": 27.55102040816326
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "CRND1JWM8611HMZKWBNBTS42E9HV1Y47",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 4.724137931034483,
+                "positioning": {
+                    "top": 51.970443349753694,
+                    "left": 13.600000000000001,
+                    "right": 13.866666666666665,
+                    "bottom": 41.13300492610838
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "PVHH595VEW114WNX7CHJ94GFZP8S7YF9",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 1.481081081081081,
+                "positioning": {
+                    "top": 63.177339901477836,
+                    "left": 13.600000000000001,
+                    "right": 13.866666666666665,
+                    "bottom": 14.285714285714285
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "H20W3C097Q0VJR3CED342J4ZHHV1F83T",
+                "scaleMode": "fit",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 33.251231527093594,
+                    "left": 39.733333333333334,
+                    "right": 40,
+                    "bottom": 57.389162561576356
+                }
+            },
+            {
+                "id": "D6Z7CZBBSDR82CWVX6KVGWAEFBK1XCZB",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fffee4e6"
+            },
+            {
+                "id": "2JRB5BDCADVN8PJKJP5VCBP0XZZ0WX3H",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 6.682926829268292,
+                "positioning": {
+                    "top": 63.916256157635466,
+                    "left": 13.866666666666665,
+                    "right": 13.600000000000001,
+                    "bottom": 31.2807881773399
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "PXKDMAWHG6RG0SYXW6Q43DTJVHP93DVZ",
+                "color": "#ff056d38",
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 4.2368421052631575,
+                "positioning": {
+                    "top": 54.80295566502463,
+                    "left": 7.199999999999999,
+                    "right": 7.466666666666668,
+                    "bottom": 36.08374384236453
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "SK8V41JSJAG3D3Q90K7D0FZ0S6Z2EBK4",
+                "scaleMode": "fit",
+                "aspectRatio": 1.2522935779816513,
+                "positioning": {
+                    "top": 19.82758620689655,
+                    "left": 16.266666666666666,
+                    "right": 10.933333333333334,
+                    "bottom": 53.32512315270937
+                }
+            },
+            {
+                "id": "MCTRKW171Z6YHJ35ZXH8Z4HED6C5FJ45",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "aspectRatio": 3.5348837209302326,
+                "positioning": {
+                    "top": 51.970443349753694,
+                    "left": 9.866666666666667,
+                    "right": 9.6,
+                    "bottom": 37.68472906403941
+                },
+                "lineHeightPx": 18.75,
+                "letterSpacing": 0,
+                "verticalPosition": "from-top"
+            },
+            {
+                "id": "AFCQRF6MJPKNNG1HM23KTR4V4J5SRCYA",
+                "aspectRatio": 5.08,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 11.945812807881774
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "Z8DV2B24XWKTKKNAKEXZ2VVQN3A0351P",
+                "aspectRatio": 5.08,
+                "borderColor": "#ff056d38",
+                "borderWidth": 1.1811023622047243,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 11.945812807881774
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "8TWE1YAD8B5SETDDQ58T0BT9635E89KP",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 11.945812807881774
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center"
+            },
+            {
+                "id": "MCWRB52QJK10P8QSTVAR5XATECWA6HBX",
+                "width": 100,
+                "height": 100,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#fff3f6e6"
+            },
+            {
+                "id": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#fff3f6e6"
+            },
+            {
+                "id": "FTSSMV37AQZ1WVWZ9FBYB395PWZ974MN",
+                "aspectRatio": 5,
+                "positioning": {
+                    "top": 93.96551724137932,
+                    "left": 45.33333333333333,
+                    "right": 45.33333333333333,
+                    "bottom": 5.172413793103448
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "BPJD8EF4PGS3RF5S5ANFRXSKMS2ZNQ2N",
+                "color": "#ff0146e0",
+                "fontSize": 18,
+                "textAlign": "right",
+                "fontWeight": 700,
+                "aspectRatio": 2.111111111111111,
+                "positioning": {
+                    "top": 92.24137931034483,
+                    "left": 71.2,
+                    "right": 9.066666666666666,
+                    "bottom": 3.571428571428571
+                },
+                "lineHeightPx": 21.09375,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "W344FMKF74F0DXPX1CZX0MWYMRH18CZE",
+                "color": "#ff0146e0",
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 1.852112676056338,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 15.2,
+                    "right": 15.2,
+                    "bottom": 31.03448275862069
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "2KM3NX5B00C4B8FT009BK7HAY1PPKD1R",
+                "aspectRatio": 1.4266063223639838,
+                "positioning": {
+                    "top": 11.206896551724139,
+                    "left": -24.8,
+                    "right": 19.04091796875,
+                    "bottom": 54.556650246305416
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "2PVNSYXW8C8A03H1DZFZ15C280F1V1H5",
+                "aspectRatio": 1.4401915491783692,
+                "positioning": {
+                    "top": 12.620330209215286,
+                    "left": -21.399348958333334,
+                    "right": 19.040934244791664,
+                    "bottom": 54.556650246305416
+                },
+                "backgroundColor": "#ffe350cc"
+            },
+            {
+                "id": "J9GSKXMYCZRTBM7Q4Y7EHVZ7BFQNQ97V",
+                "aspectRatio": 1.4401915491783692,
+                "borderColor": "#ff000000",
+                "borderWidth": 0.7815673994550081,
+                "positioning": {
+                    "top": 11.206896551724139,
+                    "left": -24.8,
+                    "right": 22.44158528645833,
+                    "bottom": 55.970083903796564
+                }
+            },
+            {
+                "id": "PES3XKB7DPB6TEJ229D82X1E8QCZP8RD",
+                "color": "#ff0146e0",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 3.554054054054054,
+                "positioning": {
+                    "top": 72.9064039408867,
+                    "left": 15.2,
+                    "right": 15.2,
+                    "bottom": 18.226600985221676
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "ET05EHQBJ4XDB5V6T2T5HKMAN8NBM614",
+                "scaleMode": "fill",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 43.46666666666666,
+                    "right": 43.2,
+                    "bottom": 42.11822660098522
+                }
+            },
+            {
+                "id": "354VQX296C4G1P8D20Y92VBKAPV9SHJE",
+                "width": 100,
+                "height": 100,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#ffdff4ff"
+            },
+            {
+                "id": "Z7FQ2Y25TC4CYDQAT24V3N3TVKVPTV30",
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#ffdff4ff"
+            },
+            {
+                "id": "D5PAZ9WHVK1RGW2FEFYNG4V5GN1H6K9G",
+                "color": "#ffd2392e",
+                "fontSize": 18,
+                "textAlign": "right",
+                "fontWeight": 700,
+                "aspectRatio": 2.111111111111111,
+                "positioning": {
+                    "top": 92.24137931034483,
+                    "left": 71.2,
+                    "right": 9.066666666666666,
+                    "bottom": 3.571428571428571
+                },
+                "lineHeightPx": 21.09375,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "A2V0E4KD4PFJB7H7GSZ4NWT9TPHBYW68",
+                "color": "#ffd2392e",
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 2.176056338028169,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 31.03448275862069
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "CMJKS88TDV8340XX6JSGZRPVQV81YJ1A",
+                "color": "#ffd2392e",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.175675675675675,
+                "positioning": {
+                    "top": 72.9064039408867,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 18.226600985221676
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "PRVRNHKGZTX3TYNQWBHYF1BQ0ZEVA61T",
+                "aspectRatio": 1.4266063223639838,
+                "positioning": {
+                    "top": 4.80295566502463,
+                    "left": 13.866666666666665,
+                    "right": -19.625748697916666,
+                    "bottom": 60.960591133004925
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "QN3QF0A3HT0QQZR1W59YKKS8QW4S48HE",
+                "aspectRatio": 1.4401915491783692,
+                "positioning": {
+                    "top": 6.216389322515779,
+                    "left": 17.267350260416666,
+                    "right": -19.625764973958333,
+                    "bottom": 60.960591133004925
+                },
+                "backgroundColor": "#ffffce1f"
+            },
+            {
+                "id": "1WD2PHERPZWZFREQHP84HQT9P75R4PFV",
+                "aspectRatio": 1.2344154176432311,
+                "borderColor": "#ff000000",
+                "borderWidth": 0.9118541033434651,
+                "positioning": {
+                    "top": 4.80295566502463,
+                    "left": 13.866666666666665,
+                    "right": -1.6,
+                    "bottom": 62.37402479049607
+                }
+            },
+            {
+                "id": "ARJ450J9KEGEM3KYWTYNFH78XNM9NKQ3",
+                "aspectRatio": 2.0708960213228362,
+                "positioning": {
+                    "top": 93.47290264561846,
+                    "left": 6.933333333333333,
+                    "right": 84.93333282470704,
+                    "bottom": 4.713313450366993
+                }
+            },
+            {
+                "id": "WRYFWCQ80NRGC4BH722Y55YNGDF9G0QZ",
+                "width": 100,
+                "height": 100,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#fffee4e6"
+            },
+            {
+                "id": "PT2R93VDPANB7B9TTA4GJGDA9Q7KQFCN",
+                "color": "#ff056d38",
+                "fontSize": 18,
+                "textAlign": "right",
+                "fontWeight": 700,
+                "aspectRatio": 2.111111111111111,
+                "positioning": {
+                    "top": 92.24137931034483,
+                    "left": 71.2,
+                    "right": 9.066666666666666,
+                    "bottom": 3.571428571428571
+                },
+                "lineHeightPx": 21.09375,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "RDCHEB35GKQ7ZYVM14G2HZ5TX5JM6ETM",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.175675675675675,
+                "positioning": {
+                    "top": 72.9064039408867,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 18.226600985221676
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "BWF98PXTPE0KAXMK7FMX8YVPJZVGKD1G",
+                "color": "#ff056d38",
+                "fontSize": 32,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 2.176056338028169,
+                "positioning": {
+                    "top": 51.724137931034484,
+                    "left": 9.066666666666666,
+                    "right": 9.066666666666666,
+                    "bottom": 31.03448275862069
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "3AMXD4P2HZCKXSSEY6N4EEDT71TYB0AW",
+                "aspectRatio": 0.9027777460056369,
+                "positioning": {
+                    "top": 8.004926108374384,
+                    "left": 19.466666666666665,
+                    "right": 6.666666666666667,
+                    "bottom": 54.20803201609644
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "JEKZBYV8B44AC5ZKH56YX4T6VCY9P22R",
+                "aspectRatio": 0.9009364643644331,
+                "positioning": {
+                    "top": 9.384016215507621,
+                    "left": 22.307682291666666,
+                    "right": 6.6666748046875,
+                    "bottom": 54.20803201609644
+                },
+                "backgroundColor": "#ff0146e0"
+            },
+            {
+                "id": "8G7W9SRCSMS715MZ1DCS96Y4SHAAVETP",
+                "aspectRatio": 0.900322438021633,
+                "borderColor": "#ff000000",
+                "borderWidth": 1.116452628048669,
+                "positioning": {
+                    "top": 8.004926108374384,
+                    "left": 19.466666666666665,
+                    "right": 8.8778076171875,
+                    "bottom": 55.23919166602524
+                }
+            },
+            {
+                "id": "42BAJ5HC9P44RE95WR39T4EQN400RJB8",
+                "aspectRatio": 4.233333333333333,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 10.714285714285714
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "VZ09X41H0SD3493PM6ZW1QG5ZNXJ91TB",
+                "aspectRatio": 4.233333333333333,
+                "borderColor": "#ff056d38",
+                "borderWidth": 1.1811023622047243,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 10.714285714285714
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "K5F1Q1390E3K1CBZZSCMDVDK2918J31G",
+                "color": "#ff056d38",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 4.129032258064516,
+                "positioning": {
+                    "top": 81.89655172413794,
+                    "left": 16.266666666666666,
+                    "right": 16,
+                    "bottom": 10.714285714285714
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "Q3QQVN4TW04SDY0APPDV1J8J2ZEMV02A",
+                "aspectRatio": 2.0708960213228362,
+                "positioning": {
+                    "top": 93.47315821154363,
+                    "left": 6.933333333333333,
+                    "right": 84.93333282470704,
+                    "bottom": 4.713057884441808
+                }
+            },
+            {
+                "id": "A00FHDXHMPG08AJP67BA5S6174JSMHNY",
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 75.98522167487684,
+                    "left": 15.733333333333333,
+                    "right": 17.599999999999998,
+                    "bottom": 19.088669950738915
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "XXM3EWX6GS1X8W5EDK655PETYNKTMKS3",
+                "aspectRatio": 6.25,
+                "borderColor": "#ff0146e0",
+                "borderWidth": 0.8,
+                "cornerRadii": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    1.2
+                ],
+                "positioning": {
+                    "top": 75.98522167487684,
+                    "left": 15.733333333333333,
+                    "right": 17.599999999999998,
+                    "bottom": 19.088669950738915
+                },
+                "borderRadius": 1.2,
+                "backgroundColor": "#ffffce1f"
+            },
+            {
+                "id": "3AZ8BPHPCBQJ1EK5AGH29PV0R1C4J432",
+                "color": "#ff0146e0",
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "lineHeight": 171.42857360839844,
+                "aspectRatio": 5.5969162055042245,
+                "positioning": {
+                    "top": 76.09717834171991,
+                    "left": 19.733333333333334,
+                    "right": 19.733333333333334,
+                    "bottom": 19.31258422400564
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01E25XVWH2JXKYCTEBH9AS1A74"
+            },
+            {
+                "id": "90NE1D9XWPFZTKV9ED0CJFSSWQ8E2KJ7",
+                "color": "#ff0146e0",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 89.77832512315271,
+                    "left": 15.733333333333333,
+                    "right": 16.53333333333333,
+                    "bottom": 4.064039408866995
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "629VWBHJCG81MS63DP1KSSKJMNVVWAB1",
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 62.19211822660099,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 32.88177339901478
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "7FB49KBRFC58VRKN80VA13RKS2Y4JJBT",
+                "aspectRatio": 6.25,
+                "cornerRadii": [
+                    1.2,
+                    1.2,
+                    1.2,
+                    1.2
+                ],
+                "positioning": {
+                    "top": 62.19211822660099,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 32.88177339901478
+                },
+                "borderRadius": 1.2,
+                "backgroundColor": "#ff000000"
+            },
+            {
+                "id": "5TFCNXX0S949AXKPG86P1JB2Y9N6BGTH",
+                "color": "#ffffffff",
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "lineHeight": 171.42857360839844,
+                "aspectRatio": 6.423076923076923,
+                "positioning": {
+                    "top": 63.177339901477836,
+                    "left": 27.46666666666667,
+                    "right": 28.53333333333333,
+                    "bottom": 33.86699507389162
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01E25XVWH5K9HN5CRD3S4XKBZQ"
+            },
+            {
+                "id": "C1BCTNP5W00KMBYWXJM37SBARRM76B4J",
+                "aspectRatio": 0.8137316932009416,
+                "positioning": {
+                    "top": 63.793103448275865,
+                    "left": 29.599999999999998,
+                    "right": 67.24666697184244,
+                    "bottom": 34.41726409742985
+                }
+            },
+            {
+                "id": "26E3T42B5SK5BXSQ3QGBJNMS7KEJ9H14",
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 55.29556650246305,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 39.778325123152705
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "F3GS456XFEDQQWZ9330GN7X7DS08T5W6",
+                "shadow": {
+                    "color": "#3d000000",
+                    "offset": {
+                        "x": 0,
+                        "y": 0.4
+                    },
+                    "radius": 0.4
+                },
+                "aspectRatio": 6.25,
+                "cornerRadii": [
+                    0.8,
+                    0.8,
+                    0.8,
+                    0.8
+                ],
+                "positioning": {
+                    "top": 55.29556650246305,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 39.778325123152705
+                },
+                "borderRadius": 0.8,
+                "backgroundColor": "#ff4285f4"
+            },
+            {
+                "id": "H82B80P7AZ5SZTYN7A0NN36JFMF6C799",
+                "color": "#ffffffff",
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "aspectRatio": 7.875,
+                "positioning": {
+                    "top": 56.77339901477833,
+                    "left": 34.13333333333333,
+                    "right": 32.266666666666666,
+                    "bottom": 41.256157635467986
+                },
+                "lineHeightPx": 16.40625,
+                "letterSpacing": 0.21875,
+                "verticalPosition": "from-top",
+                "fontId": "01E25XVWH9H0MT84FDN5WVMC35"
+            },
+            {
+                "id": "6SWMGGWJ6MQQXH47N1GFVZ7DVJWTMXTE",
+                "aspectRatio": 1,
+                "cornerRadii": [
+                    2.6315789473684212,
+                    2.6315789473684212,
+                    2.6315789473684212,
+                    2.6315789473684212
+                ],
+                "positioning": {
+                    "top": 55.41871921182266,
+                    "left": 16.53333333333333,
+                    "right": 73.33333333333333,
+                    "bottom": 39.90147783251231
+                },
+                "borderRadius": 2.6315789473684212,
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "YBWBYHHP3K2DRRV2ZYWD4CEV9XM5G7W2",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 56.65024630541872,
+                    "left": 19.2,
+                    "right": 76,
+                    "bottom": 41.13300492610838
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "N5ZWYPMCN7RMJYNZAM6B13KANZY17QHN",
+                "aspectRatio": 6.25,
+                "positioning": {
+                    "top": 48.399014778325125,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 46.67487684729064
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "GYJ7G8GZMX5YVH5NEYC4RM5F1Z6SPX4K",
+                "aspectRatio": 6,
+                "borderColor": "#ff000000",
+                "borderWidth": 0.8,
+                "cornerRadii": [
+                    0.8,
+                    0.8,
+                    0.8,
+                    0.8
+                ],
+                "positioning": {
+                    "top": 48.399014778325125,
+                    "left": 16.266666666666666,
+                    "right": 17.066666666666666,
+                    "bottom": 46.67487684729064
+                },
+                "borderRadius": 0.8,
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "8MW79X688VDTC0B64D8KZD5WG2DAB81R",
+                "aspectRatio": 0.6666667040656594,
+                "positioning": {
+                    "top": 49.87684729064039,
+                    "left": 20.622220865885417,
+                    "right": 76.35555674235026,
+                    "bottom": 48.029556650246306
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "73MBWKRXTK9PN8M0Z8FZX6N5QQW3HZH9",
+                "color": "#ff000000",
+                "fontSize": 14,
+                "textAlign": "center",
+                "fontWeight": 500,
+                "aspectRatio": 7.823529411764706,
+                "positioning": {
+                    "top": 49.87684729064039,
+                    "left": 32.266666666666666,
+                    "right": 32.266666666666666,
+                    "bottom": 48.029556650246306
+                },
+                "lineHeightPx": 16.40625,
+                "letterSpacing": 0.21875,
+                "verticalPosition": "from-top",
+                "fontId": "01E25XVWH5K9HN5CRD3S4XKBZQ"
+            },
+            {
+                "id": "0VTEEGTXSHK61HG1PXG8KSGY3EFX4CVJ",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 5.41871921182266,
+                    "left": 84,
+                    "right": 6.4,
+                    "bottom": 90.14778325123153
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "FYVPT63MP98WY126KC2D4AYST09XBPXJ",
+                "color": "#ff0146e0",
+                "fontSize": 100,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 100,
+                "aspectRatio": 1.1529051987767585,
+                "positioning": {
+                    "top": 8.374384236453201,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 51.600985221674875
+                },
+                "lineHeightPx": 100,
+                "letterSpacing": -0.5,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "9CJ5GRVNASSY0P9C16GNW9G4VGST2F2N",
+                "scaleMode": "fill",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 4.556650246305419,
+                    "left": 5.866666666666666,
+                    "right": 82.13333333333334,
+                    "bottom": 89.90147783251231
+                }
+            },
+            {
+                "id": "Z9PVPMFZAKH04XJFG1NV3M3YNYM52M92",
+                "color": "#ff0146e0",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 1.9259259259259258,
+                "positioning": {
+                    "top": 70.19704433497537,
+                    "left": 42.93333333333334,
+                    "right": 43.733333333333334,
+                    "bottom": 26.72413793103448
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "X90ASZQJE0XRTERJEHHEPK2Z2G8MQ8TX",
+                "width": 100,
+                "height": 100,
+                "aspectRatio": 0.4618226600985222,
+                "backgroundColor": "#fffff3c5"
+            },
+            {
+                "id": "8537NP2GMX2SJMSFB233FZMHH3PTM3HK",
+                "aspectRatio": 0.4618226600985222,
+                "positioning": {
+                    "top": 0,
+                    "left": 0,
+                    "right": 0,
+                    "bottom": 0
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "E735EZC41JE6A742EAWGG7F90645RA0M",
+                "color": "#ff490d82",
+                "fontSize": 32,
+                "textAlign": "left",
+                "fontWeight": 700,
+                "aspectRatio": 4.512820512820513,
+                "positioning": {
+                    "top": 9.975369458128078,
+                    "left": 6.666666666666667,
+                    "right": 0,
+                    "bottom": 80.66502463054186
+                },
+                "lineHeightPx": 37.5,
+                "letterSpacing": -0.16,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "EQ12FEH2Y8SFRF92MEG4294966KGA3NY",
+                "color": "#ff490d82",
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 3.215909090909091,
+                "positioning": {
+                    "top": 28.694581280788178,
+                    "left": 6.666666666666667,
+                    "right": 18.4,
+                    "bottom": 60.71428571428571
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "8WSNYZDNEVD5N5P1DSSXJJ2281BBT3E1",
+                "color": "#ff490d82",
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.639344262295082,
+                "positioning": {
+                    "top": 47.9064039408867,
+                    "left": 6.666666666666667,
+                    "right": 18.4,
+                    "bottom": 44.827586206896555
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "V0T86HT4GA31WM0YR2EQWQ090QA17AHK",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 24.261083743842367,
+                    "left": 6.666666666666667,
+                    "right": 87.2,
+                    "bottom": 72.9064039408867
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "0GDEZJBPX4KKXVVHSNRHETQG4CB7F1DM",
+                "color": "#ff490d82",
+                "fontSize": 16,
+                "textAlign": "left",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 2.5727272727272728,
+                "positioning": {
+                    "top": 63.255573141163794,
+                    "left": 6.666666666666667,
+                    "right": 18.4,
+                    "bottom": 23.44393424799877
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "C0Y0R3REFBQT9D108AKTSJ5CZKG8DYW0",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 58.86699507389162,
+                    "left": 6.133333333333333,
+                    "right": 86.66666666666667,
+                    "bottom": 37.80788177339902
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "GS5YF1YXXMKMNB9468XEQ5HQ49ZV0FFD",
+                "aspectRatio": 0.6868915296109874,
+                "positioning": {
+                    "top": 59.45737376845823,
+                    "left": 7.282537402311961,
+                    "right": 88.88376076459885,
+                    "bottom": 37.931403940901376
+                }
+            },
+            {
+                "id": "PEF8SCVKJ3D90YHK4TTJKGB6EGNRAWY9",
+                "aspectRatio": 1.6772673699026486,
+                "positioning": {
+                    "top": 58.989778325108475,
+                    "left": 7.522491015593212,
+                    "right": 90.56084231774012,
+                    "bottom": 40.51231911947281
+                }
+            },
+            {
+                "id": "1EBP64CER4GP1H1RKQAJ4EP70D67Y83Y",
+                "aspectRatio": 0.6086956521739131,
+                "positioning": {
+                    "top": 43.7192118226601,
+                    "left": 7.199999999999999,
+                    "right": 89.06666666666668,
+                    "bottom": 53.44827586206896
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "0CWHHG1M64RJVYPKGHWQDAQJ9B6K6QZY",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 4.310344827586207,
+                    "left": 3.733333333333334,
+                    "right": 84.26666666666667,
+                    "bottom": 90.14778325123153
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "GDB16KC75X83RTT4MT0NB6SDK6EPDBAE",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 5.786945812807882,
+                    "left": 6.930666666666666,
+                    "right": 87.736,
+                    "bottom": 91.75
+                }
+            },
+            {
+                "id": "EE5H61CNF3HSFBTYAXR4JY8GNX0MZDBE",
+                "width": 100,
+                "height": 22.536945812807883,
+                "aspectRatio": 2.0491803278688523,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "KCDYK7JM8FZHJPRX76507W4KCJDG6NSH",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 24.59016393442623,
+                    "left": 6.666666666666667,
+                    "right": 85.33333333333334,
+                    "bottom": 59.01639344262295
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "0KZ7SBY2298VZBGB3B7K85706NBR7QCX",
+                "color": "#ff0146e0",
+                "fontSize": 40,
+                "textAlign": "left",
+                "fontWeight": 700,
+                "aspectRatio": 4.602564102564102,
+                "positioning": {
+                    "top": 44.26229508196721,
+                    "left": 6.666666666666667,
+                    "right": -1.866666666666667,
+                    "bottom": 14.207650273224044
+                },
+                "lineHeightPx": 46.875,
+                "letterSpacing": -0.2,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "2A2P2ZEXN3BTN961DQFKYNZS8NC7E696",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 25.136612021857925,
+                    "left": 86.4,
+                    "right": 6.666666666666667,
+                    "bottom": 60.65573770491803
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "D2G930AJHQMYBFJ69QF0Q94VJWTEN8F8",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 24.59016393442623,
+                    "left": 19.2,
+                    "right": 72.8,
+                    "bottom": 59.01639344262295
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "6WVK5DNK662FQZTZPE6TAZ9G0ZHEPK8N",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 26.633863105148567,
+                    "left": 20.197333333333336,
+                    "right": 73.80265700276694,
+                    "bottom": 61.071035124565086
+                }
+            },
+            {
+                "id": "W19P0JEMRQX2DAH3WS5YHHWGTCWJJPGP",
+                "width": 100,
+                "height": 77.46305418719211,
+                "aspectRatio": 0.5961844197138315,
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "49HA86EA14MXP1N1W0RC9BGZSPYYH30H",
+                "color": "#ff0146e0",
+                "fontSize": 24,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "aspectRatio": 2.104,
+                "positioning": {
+                    "top": 35.77106518282989,
+                    "left": 15.2,
+                    "right": 15.2,
+                    "bottom": 44.67408585055644
+                },
+                "lineHeightPx": 28.125,
+                "letterSpacing": -0.12,
+                "verticalPosition": "from-bottom",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "2GY075CRYRNGS68JC392VBA75YHG0Q6E",
+                "color": "#ff0146e0",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 2.52212389380531,
+                "positioning": {
+                    "top": 59.14149443561209,
+                    "left": 12.266666666666666,
+                    "right": 12.266666666666666,
+                    "bottom": 23.211446740858506
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": -0.08,
+                "verticalPosition": "from-top",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "GCPQW5P9QRV034ZDH4D7KCCBXHSFBDR0",
+                "scaleMode": "fit",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 29.72972972972973,
+                    "left": 40,
+                    "right": 39.733333333333334,
+                    "bottom": 58.18759936406995
+                }
+            },
+            {
+                "id": "WMCF9C4Z9G7V7RRT1DVDBGRY6Y6WK0N7",
+                "color": "#ffabacab",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 400,
+                "lineHeight": 150,
+                "aspectRatio": 4.923076923076923,
+                "positioning": {
+                    "top": 92.48768472906403,
+                    "left": 18.133333333333333,
+                    "right": 14.133333333333335,
+                    "bottom": 1.354679802955665
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZJYCQB9HWB462XQXC1"
+            },
+            {
+                "id": "MHTAX78FKG2M6VZRW42M808K57Z14CRN",
+                "aspectRatio": 4.433333333333334,
+                "positioning": {
+                    "top": 46.30541871921182,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 46.30541871921182
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "291DJKDAEES9KKMVGGWN0B4Y0X22GTQQ",
+                "aspectRatio": 4.433333333333334,
+                "borderColor": "#ff0146e0",
+                "borderWidth": 1.1278195488721805,
+                "positioning": {
+                    "top": 46.30541871921182,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 46.30541871921182
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "CNAZJVJC6SBEZCB36Q8H5Z7GKM03ECJ9",
+                "color": "#ff0146e0",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 2.306451612903226,
+                "positioning": {
+                    "top": 46.30541871921182,
+                    "left": 33.06666666666666,
+                    "right": 29.333333333333332,
+                    "bottom": 46.30541871921182
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "AYQND2XRER180ZQKKAJ553A76BPBQE6C",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 48.76847290640394,
+                    "left": 19.733333333333334,
+                    "right": 74.93333333333332,
+                    "bottom": 48.76847290640394
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "S7TYCXW0HPVX1182FRRP5625NYXAMTRX",
+                "aspectRatio": 4.433333333333334,
+                "positioning": {
+                    "top": 37.06896551724138,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 55.54187192118226
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "W97GWF37P0VMMMJAYET4DY11R4S7CNQZ",
+                "aspectRatio": 4.433333333333334,
+                "borderColor": "#ff0146e0",
+                "borderWidth": 1.1278195488721805,
+                "positioning": {
+                    "top": 37.06896551724138,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 55.54187192118226
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "XYY6BN3PVYNBM5XZTQ2Q291VVVV3FDQ5",
+                "color": "#ff0146e0",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 2.306451612903226,
+                "positioning": {
+                    "top": 37.06896551724138,
+                    "left": 33.06666666666666,
+                    "right": 29.333333333333332,
+                    "bottom": 55.54187192118226
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "244R0S34REBP00H0CN2CHBZTNFJ187K4",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 39.532019704433495,
+                    "left": 19.733333333333334,
+                    "right": 74.93333333333332,
+                    "bottom": 58.00492610837439
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "KNGEVEG3BBDVQY40BDAMXH64Y8NNWXT9",
+                "aspectRatio": 1.3333334048589087,
+                "positioning": {
+                    "top": 39.94150277627219,
+                    "left": 19.95334418408076,
+                    "right": 75.15776675748825,
+                    "bottom": 58.416461138082255
+                }
+            },
+            {
+                "id": "87NYWSH1KKB9Y5KPQEMAEGP06VX30FN6",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 40.45463875207701,
+                    "left": 21.73111111116409,
+                    "right": 76.93555555550257,
+                    "bottom": 58.92959770112496
+                }
+            },
+            {
+                "id": "E1EWAS1SP0KPP0ZS5WFXCD7KSJYK4DJ9",
+                "aspectRatio": 4.433333333333334,
+                "positioning": {
+                    "top": 55.54187192118226,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 37.06896551724138
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "FPMGA2NFB7BQ21VHFCBDCB44KZJNAE1B",
+                "aspectRatio": 4.433333333333334,
+                "borderColor": "#ff490d82",
+                "borderWidth": 1.1278195488721805,
+                "positioning": {
+                    "top": 55.54187192118226,
+                    "left": 14.666666666666666,
+                    "right": 14.399999999999999,
+                    "bottom": 37.06896551724138
+                },
+                "backgroundColor": "#ffffffff"
+            },
+            {
+                "id": "181NQ03CG4MVYN0DAEPZJPXH4WRXD86M",
+                "color": "#ff490d82",
+                "fontSize": 16,
+                "textAlign": "center",
+                "fontWeight": 700,
+                "lineHeight": 150,
+                "aspectRatio": 3.2903225806451615,
+                "positioning": {
+                    "top": 55.54187192118226,
+                    "left": 26.666666666666668,
+                    "right": 19.466666666666665,
+                    "bottom": 37.06896551724138
+                },
+                "lineHeightPx": 24,
+                "letterSpacing": 0,
+                "verticalPosition": "center",
+                "fontId": "01DZ45B3ZH3PSYYWPD8GRWZNTC"
+            },
+            {
+                "id": "Y64MV314XJZ84WEWJEH1V2CNAWFTDTMT",
+                "aspectRatio": 1,
+                "positioning": {
+                    "top": 58.00492610837439,
+                    "left": 19.733333333333334,
+                    "right": 74.93333333333332,
+                    "bottom": 39.532019704433495
+                },
+                "backgroundColor": "#00000000"
+            },
+            {
+                "id": "WQF451XMKD46FP8FFQJ4FCFX2PE1V1VP",
+                "aspectRatio": 0.9082568171610129,
+                "positioning": {
+                    "top": 58.20925572587939,
+                    "left": 20.531333333333336,
+                    "right": 75.46866666666666,
+                    "bottom": 39.738198961530415
+                }
+            }
+        ],
+        "data": {
+            "pages": [
+                {
+                    "id": "01E4BV6M8CGAJTGYGFNAP29ZT5",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:page-scanned-apps"
+                    ],
+                    "name": "dont touch!!",
+                    "background": {
+                        "id": "01E4BV6MFBWPH3Q3SVDS5XA2G0",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01E4BV6MFCYY68N7NGN4D5HY69",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "04XV685Z7YNJWTZFCJZ0G0KX7VARQZ1D"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01E4BV6M8GAR94PGQQ6ZTSYJYM",
+                        "type": "container:top-bar",
+                        "styleId": "1TCG3FWJVJ5WYBDQK8449E8H5889RKDB",
+                        "components": [
+                            {
+                                "id": "01E4BV6M8HT8QWBV0W0H9BFT8W",
+                                "type": "component:color",
+                                "tags": [
+                                    "action:close"
+                                ],
+                                "actions": {
+                                    "tap": {
+                                        "action": "close"
+                                    }
+                                },
+                                "styleId": "TD3F2P9ET921AKEJSX9ZW64MHW5K23ZR"
+                            },
+                            {
+                                "id": "01E4BV6M8JS68DK80C31078RYZ",
+                                "type": "component:svg",
+                                "assetId": "01E4BV6M8KTMHT5DW0AYK3F2WZ",
+                                "styleId": "4M3CG8725BTP0NCGAS7FNBS1Y1R17MAW"
+                            },
+                            {
+                                "id": "01E4BV6M8KEMVTC3GZ85F6D3FP",
+                                "type": "component:svg",
+                                "assetId": "01E4BV6M8MZ41A5XVE96AN6HDY",
+                                "styleId": "4M3CG8725BTP0NCGAS7FNBS1Y1R17MAW"
+                            },
+                            {
+                                "id": "01E4BV6M8MG9XVWHGQS5GG7V7E",
+                                "type": "component:text",
+                                "styleId": "828P8AZ96TQZVGH0B87PPPABJRRRANQ4",
+                                "text": {
+                                    "en": "Scanned Apps"
+                                }
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01E4BV6M8N2SS1BYWJZQD8K91Y",
+                            "type": "container:default",
+                            "styleId": "J71KPE49EGJC8ZTFY1FFGXVWV5QZGA0X",
+                            "components": [
+                                {
+                                    "id": "01E4BV6M8NT4TQ3XRAVXH008PH",
+                                    "type": "component:color",
+                                    "styleId": "R6B8MQVQ757QE8JF397VPN8GQ7VJEGRW"
+                                },
+                                {
+                                    "id": "01E4BV6M8P83V32JAEXSXTR2R2",
+                                    "type": "component:color",
+                                    "styleId": "MPYE6QVPKFGK1M10A8WGMVDN657T75F6"
+                                },
+                                {
+                                    "id": "01E4BV6M8PKX6F1WQXX15BGMRC",
+                                    "type": "component:image",
+                                    "tags": [
+                                        "dev:scanned-icon"
+                                    ],
+                                    "assetId": "01E4BV6MFGN9TRQRXRPWM1J372",
+                                    "styleId": "R6S8JFYGM7CP7PWZKHEK2C3XAAW4VPAK"
+                                },
+                                {
+                                    "id": "01E4BV6M94SB4019EP1HS13F3V",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:scanned-title"
+                                    ],
+                                    "styleId": "W5827BWVWW1HW491X632HMHST0MN9G06",
+                                    "text": {
+                                        "en": "Cocktail Recipes appli..."
+                                    }
+                                },
+                                {
+                                    "id": "01E4BV6M94YMSPY5TQPBS9XSXK",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:scanned-date"
+                                    ],
+                                    "styleId": "8BYX4SGFG9QNN9J5PZQVZKNPTWKKRHGA",
+                                    "text": {
+                                        "en": "2 days ago"
+                                    }
+                                },
+                                {
+                                    "id": "01E4BV6M95C1ANKEX4C9Z0BKH9",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:scanapp"
+                                    ],
+                                    "styleId": "QB8PT450P0M723CNN34H8Z84MC672HE6"
+                                },
+                                {
+                                    "id": "01E4BV6M99204N4SW1YX6GJS4J",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:showqr"
+                                    ],
+                                    "styleId": "YWXY42SA12AE3WC340RQ6GCYWQ6V96Z6"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46TS0GM814SWP9060B6P6F",
+                    "type": "page:default",
+                    "tags": [
+                        "error:default"
+                    ],
+                    "name": "FRAME",
+                    "background": {
+                        "id": "01DZ46TS4F58WMSN45TWSK8AYP",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46TS4GK3Z1TTPAF25FHHPV",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "WHVBSGEJRB0AYR738SN2A13B5G4E8WCD"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46TS0JP2W48QGFFV0V0BZD",
+                        "type": "container:top-bar",
+                        "styleId": "DB41MFWFJZMG7WEJP6ADYWRGYJZN0G8R",
+                        "components": [
+                            {
+                                "id": "01DZ46TS0JW1Y1Y9D3JNXSMX0K",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:close"
+                                ],
+                                "assetId": "01DZ46TS0MGTM87Y15287RCXWQ",
+                                "actions": {
+                                    "tap": {
+                                        "action": "close"
+                                    }
+                                },
+                                "styleId": "MAC77YF7V27D6PYJC1QM6N8531GCJKX8"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46TS0N17D1D6CBZPWXJJWQ",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                            "components": [
+                                {
+                                    "id": "01DZ46TS0N95C2Q6FZBBXJXZ90",
+                                    "type": "component:text",
+                                    "styleId": "W7PPQ47MJQSY0BWPCRAWCDZVFP57AYCX",
+                                    "text": {
+                                        "en": "Something really bad happened"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ46TS0PS8M8H1BH90N5Z339",
+                                    "type": "component:text",
+                                    "styleId": "Y6C05R0QQK0G9VG9KN3E0P8TTA0J3E23",
+                                    "text": {
+                                        "en": "Oops!"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ46TS0PSY0ADHCZXGC557KB",
+                                    "type": "component:color",
+                                    "styleId": "9366JBNR7Q38Z5FY8781HCJ919ZWF1CC"
+                                },
+                                {
+                                    "id": "01DZ46TS0Q8GZKKEFNZ0QCB54F",
+                                    "type": "component:image",
+                                    "assetId": "01DZ46TS4SX705KMBGEMZ736D5",
+                                    "styleId": "QRDD54XKJRKQ5TK7YHCCYSWNBFV23TGW"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46TS0Q6EHMS2PVDWYC0MM2",
+                    "type": "page:default",
+                    "tags": [
+                        "loading"
+                    ],
+                    "name": "FRAME",
+                    "background": {
+                        "id": "01DZ46TS4SMJ30473AAMW8673C",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46TS4S92MM36BK87W6YB54",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "PN985DT161ZF54QWQ6JR43K0HRKRDWE0"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46TS0QWQA5W54E3XZK3Y9G",
+                        "type": "container:top-bar",
+                        "styleId": "DB41MFWFJZMG7WEJP6ADYWRGYJZN0G8R"
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46TS0S87D5X632JZPKNZKJ",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                            "components": [
+                                {
+                                    "id": "01DZ46TS0SCARFC5HW2KB4CEG5",
+                                    "type": "component:text",
+                                    "styleId": "GAS018F44Y1P2V2E7TRAVP61WT2Z89E8",
+                                    "text": {
+                                        "en": "Loading.."
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46TS0W88Y86VXX41NAXPTW",
+                    "type": "page:default",
+                    "tags": [
+                        "error:remotePage"
+                    ],
+                    "name": "FRAME",
+                    "background": {
+                        "id": "01DZ46TS4Z0YE7AEFNQPEK7X2Y",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46TS50WHS0JRDH2B2142X4",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "HPQTT8WFX0X59VTF0C2JXD7N7MNBD9MG"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46TS0XGAJVECP0G299RFM4",
+                        "type": "container:top-bar",
+                        "styleId": "DB41MFWFJZMG7WEJP6ADYWRGYJZN0G8R",
+                        "components": [
+                            {
+                                "id": "01DZ46TS0XVAG58WXEJ4YWSJKS",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:goBack"
+                                ],
+                                "assetId": "01DZ46TS0Y2DYHKZDRS8P2FNSS",
+                                "styleId": "NZ6QDS0EBVXS94AYPW2NS1Y27EG3ZXW7"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46TS0YE4TCXBC1234PENMJ",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                            "components": [
+                                {
+                                    "id": "01DZ46TS0YGKEMJHVCDHDHRFA8",
+                                    "type": "component:text",
+                                    "styleId": "CRND1JWM8611HMZKWBNBTS42E9HV1Y47",
+                                    "text": {
+                                        "en": "An error happened loading remote page"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ46TS0Y5R7T7TY0R91X03KK",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:errorInfo"
+                                    ],
+                                    "styleId": "PVHH595VEW114WNX7CHJ94GFZP8S7YF9",
+                                    "text": {
+                                        "en": "<errorInfo>"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ46TS0ZW895A12T3A1DS58J",
+                                    "type": "component:text",
+                                    "styleId": "Y6C05R0QQK0G9VG9KN3E0P8TTA0J3E23",
+                                    "text": {
+                                        "en": "Oops!"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ46TS0Z5QXQ3QGS7QVAGBHZ",
+                                    "type": "component:color",
+                                    "styleId": "9366JBNR7Q38Z5FY8781HCJ919ZWF1CC"
+                                },
+                                {
+                                    "id": "01DZ46TS10S2FDKN4BTBP3C0QN",
+                                    "type": "component:image",
+                                    "assetId": "01DZ46TS52Y0556YYDZH1SF8B5",
+                                    "styleId": "H20W3C097Q0VJR3CED342J4ZHHV1F83T"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ46TS10K3X7FG3K8XXJCCHJ",
+                    "type": "page:default",
+                    "tags": [
+                        "error:noConnection"
+                    ],
+                    "name": "FRAME",
+                    "background": {
+                        "id": "01DZ46TS5271XFA16GE72Z59Y4",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46TS53Q9RQX6B04RY11F1R",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "D6Z7CZBBSDR82CWVX6KVGWAEFBK1XCZB"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ46TS10YKAPRHPZ251624RP",
+                        "type": "container:top-bar",
+                        "styleId": "DB41MFWFJZMG7WEJP6ADYWRGYJZN0G8R",
+                        "components": [
+                            {
+                                "id": "01DZ46TS11WY9XR8Q9JJA14CTJ",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:close",
+                                    "dev:noConnectionBack"
+                                ],
+                                "assetId": "01DZ46TS11VPMH07SJQK4QCVB6",
+                                "actions": {
+                                    "tap": {
+                                        "action": "close"
+                                    }
+                                },
+                                "styleId": "MAC77YF7V27D6PYJC1QM6N8531GCJKX8"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ46TS126WSXAJH7BTMJ2WZK",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                            "components": [
+                                {
+                                    "id": "01DZ46TS12CE6G8ZE5544JB625",
+                                    "type": "component:text",
+                                    "styleId": "2JRB5BDCADVN8PJKJP5VCBP0XZZ0WX3H",
+                                    "text": {
+                                        "en": "You are offline. Please connect to a network!"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ46TS131F9J7F59T335EF2V",
+                                    "type": "component:text",
+                                    "styleId": "PXKDMAWHG6RG0SYXW6Q43DTJVHP93DVZ",
+                                    "text": {
+                                        "en": "Oops!"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ46TS13DZ02MK2RZT6N7C46",
+                                    "type": "component:image",
+                                    "tags": [
+                                        "dev:noConnectionImage"
+                                    ],
+                                    "assetId": "01DZ46TS55NNYM0BC3PM5GM68X",
+                                    "styleId": "SK8V41JSJAG3D3Q90K7D0FZ0S6Z2EBK4"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01E0Z00C2KAGVR16ZHYQ05QVEN",
+                    "type": "page:default",
+                    "tags": [
+                        "error:noCamera"
+                    ],
+                    "name": "FRAME",
+                    "background": {
+                        "id": "01E0Z00C5RKK6GN2JVR0N890FS",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01E0Z00C5RE8NHEXHM96KFFN6M",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "PN985DT161ZF54QWQ6JR43K0HRKRDWE0"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01E0Z00C2MS147WZ5MQTGMNVND",
+                        "type": "container:top-bar",
+                        "styleId": "DB41MFWFJZMG7WEJP6ADYWRGYJZN0G8R",
+                        "components": [
+                            {
+                                "id": "01E0Z00C2MSSSAT8S8RRCNA7VZ",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:close"
+                                ],
+                                "assetId": "01E0Z00C2MXQF4PDRPGERAYDSM",
+                                "actions": {
+                                    "tap": {
+                                        "action": "close"
+                                    }
+                                },
+                                "styleId": "MAC77YF7V27D6PYJC1QM6N8531GCJKX8"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01E0Z00C2N548R4P5EMSGVXP6W",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                            "components": [
+                                {
+                                    "id": "01E0Z00C2NSYZ5SA6Y6HHHM3CJ",
+                                    "type": "component:text",
+                                    "styleId": "MCTRKW171Z6YHJ35ZXH8Z4HED6C5FJ45",
+                                    "text": {
+                                        "en": "Bravo Vision does not have access to the camera"
+                                    }
+                                },
+                                {
+                                    "id": "01E0Z00C2NVG2QS2QG2DEF0G42",
+                                    "type": "component:text",
+                                    "styleId": "Y6C05R0QQK0G9VG9KN3E0P8TTA0J3E23",
+                                    "text": {
+                                        "en": "Oops!"
+                                    }
+                                },
+                                {
+                                    "id": "01E0Z00C2N7T8KDF750Z2BYPJV",
+                                    "type": "component:color",
+                                    "styleId": "9366JBNR7Q38Z5FY8781HCJ919ZWF1CC"
+                                },
+                                {
+                                    "id": "01E0Z00C2P3XTMDSHZS9YA22R6",
+                                    "type": "component:image",
+                                    "assetId": "01DZ46TS4WM8C6G61DY95B16FC",
+                                    "styleId": "QRDD54XKJRKQ5TK7YHCCYSWNBFV23TGW"
+                                },
+                                {
+                                    "id": "01E0Z00C2P664T5VP8TZF3SYGV",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:appSettings"
+                                    ],
+                                    "styleId": "AFCQRF6MJPKNNG1HM23KTR4V4J5SRCYA"
+                                },
+                                {
+                                    "id": "01E0Z00C2R3BMZ0BWRA18190K1",
+                                    "type": "component:color",
+                                    "styleId": "Z8DV2B24XWKTKKNAKEXZ2VVQN3A0351P"
+                                },
+                                {
+                                    "id": "01E0Z00C2SQ2T0NFRHRZRR7CKR",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:appSettings"
+                                    ],
+                                    "styleId": "8TWE1YAD8B5SETDDQ58T0BT9635E89KP",
+                                    "text": {
+                                        "en": "Enable Camera Access"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ45B41BK92AKGSA6ZY6SHRJ",
+                    "type": "page:default",
+                    "tags": [
+                        "intro:once"
+                    ],
+                    "name": "Onboarding 1",
+                    "intro": "once",
+                    "body": [
+                        {
+                            "id": "01DZ45B41CXVNNHZH6CAFVQR6Y",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "MCWRB52QJK10P8QSTVAR5XATECWA6HBX",
+                            "background": {
+                                "id": "01DZ45B42F5ECN2W8D3EMDQH40",
+                                "type": "container:background",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                                "components": [
+                                    {
+                                        "id": "01DZ45B42G57TMC1M19PJDD83Y",
+                                        "type": "component:color",
+                                        "tags": [
+                                            "bravo:layer"
+                                        ],
+                                        "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "id": "01DZ45B41C0RKXNM1V8HNRR6W9",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ6SWW7YW6W8E4AG9CVGK38K",
+                                    "styleId": "FTSSMV37AQZ1WVWZ9FBYB395PWZ974MN"
+                                },
+                                {
+                                    "id": "01DZ45B41D2WAYAMBKB79X925Z",
+                                    "type": "component:text",
+                                    "href": "01DZ45B411K72WSFKSW8YSBDWN",
+                                    "styleId": "BPJD8EF4PGS3RF5S5ANFRXSKMS2ZNQ2N",
+                                    "text": {
+                                        "en": "Next"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B41DQ88GE841KYSJZ4MG",
+                                    "type": "component:text",
+                                    "styleId": "W344FMKF74F0DXPX1CZX0MWYMRH18CZE",
+                                    "text": {
+                                        "en": "Welcome to Bravo Vision"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B41DQ0NSX01W7PA3AF0J",
+                                    "type": "component:color",
+                                    "styleId": "2KM3NX5B00C4B8FT009BK7HAY1PPKD1R"
+                                },
+                                {
+                                    "id": "01DZ45B41E6KXSBMWVQA267HEC",
+                                    "type": "component:color",
+                                    "styleId": "2PVNSYXW8C8A03H1DZFZ15C280F1V1H5"
+                                },
+                                {
+                                    "id": "01DZ45B41E38KMA7W9JWF4R7AA",
+                                    "type": "component:gif",
+                                    "assetId": "01E0WT6Z1JD3HVAPN6K2PNGQM7",
+                                    "styleId": "J9GSKXMYCZRTBM7Q4Y7EHVZ7BFQNQ97V"
+                                },
+                                {
+                                    "id": "01DZ45B41EYVB78VS5CB6PRNKC",
+                                    "type": "component:text",
+                                    "styleId": "PES3XKB7DPB6TEJ229D82X1E8QCZP8RD",
+                                    "text": {
+                                        "en": "Preview your Bravo app projects right on your phone."
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B41FCF9WJ8GHH6EY517C",
+                                    "type": "component:image",
+                                    "assetId": "01DZ45B424F3TSV0WF8BKPZE2Y",
+                                    "styleId": "ET05EHQBJ4XDB5V6T2T5HKMAN8NBM614"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ45B411K72WSFKSW8YSBDWN",
+                    "type": "page:default",
+                    "name": "Onboarding 2",
+                    "body": [
+                        {
+                            "id": "01DZ45B415761H9MA099G1V80G",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "354VQX296C4G1P8D20Y92VBKAPV9SHJE",
+                            "background": {
+                                "id": "01DZ45B42DABHGK81Q7RH6CMG0",
+                                "type": "container:background",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                                "components": [
+                                    {
+                                        "id": "01DZ45B42D32SPJ56MCN68TTPS",
+                                        "type": "component:color",
+                                        "tags": [
+                                            "bravo:layer"
+                                        ],
+                                        "styleId": "Z7FQ2Y25TC4CYDQAT24V3N3TVKVPTV30"
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "id": "01DZ45B41566C9D952GXQBG4DA",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ6SWW87YJ54850JJ3Y8AYM6",
+                                    "styleId": "FTSSMV37AQZ1WVWZ9FBYB395PWZ974MN"
+                                },
+                                {
+                                    "id": "01DZ45B418RDRG71E8RTM6KXPV",
+                                    "type": "component:text",
+                                    "href": "01DZ45B40JRJ3QRJGD1BBHT90N",
+                                    "styleId": "D5PAZ9WHVK1RGW2FEFYNG4V5GN1H6K9G",
+                                    "text": {
+                                        "en": "Next"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B419K39S8ZZS233DJZDH",
+                                    "type": "component:text",
+                                    "styleId": "A2V0E4KD4PFJB7H7GSZ4NWT9TPHBYW68",
+                                    "text": {
+                                        "en": "Tap and hold\nto exit or update"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B419E2DFYY20QDP69W3G",
+                                    "type": "component:text",
+                                    "styleId": "CMJKS88TDV8340XX6JSGZRPVQV81YJ1A",
+                                    "text": {
+                                        "en": "A pop-up screen will appear with the options to exit or update the current app."
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B419G4WCM9BF0KVDYH2F",
+                                    "type": "component:color",
+                                    "styleId": "PRVRNHKGZTX3TYNQWBHYF1BQ0ZEVA61T"
+                                },
+                                {
+                                    "id": "01DZ45B419R01MCPM095KZDKXT",
+                                    "type": "component:color",
+                                    "styleId": "QN3QF0A3HT0QQZR1W59YKKS8QW4S48HE"
+                                },
+                                {
+                                    "id": "01DZ45B41AH2JFKVGFMQFXTHHM",
+                                    "type": "component:gif",
+                                    "assetId": "01E0WSGV9H2KPQ3K67H43RFVZG",
+                                    "styleId": "1WD2PHERPZWZFREQHP84HQT9P75R4PFV"
+                                },
+                                {
+                                    "id": "01DZ45B41BEZHBVKHQSYFV71GP",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B41B91WWM6C3S8DEAVFA",
+                                    "href": "01DZ45B41BK92AKGSA6ZY6SHRJ",
+                                    "styleId": "ARJ450J9KEGEM3KYWTYNFH78XNM9NKQ3"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ45B40JRJ3QRJGD1BBHT90N",
+                    "type": "page:default",
+                    "name": "Onboarding 3",
+                    "body": [
+                        {
+                            "id": "01DZ45B40KW2HMM26PEKRM9Q2F",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "WRYFWCQ80NRGC4BH722Y55YNGDF9G0QZ",
+                            "background": {
+                                "id": "01DZ45B42BN0HV608SS7RA97V5",
+                                "type": "container:background",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                                "components": [
+                                    {
+                                        "id": "01DZ45B42BPR7VZQGZCAF00SW1",
+                                        "type": "component:color",
+                                        "tags": [
+                                            "bravo:layer"
+                                        ],
+                                        "styleId": "D6Z7CZBBSDR82CWVX6KVGWAEFBK1XCZB"
+                                    }
+                                ]
+                            },
+                            "components": [
+                                {
+                                    "id": "01DZ45B40KFG6FR2N8SWA3976S",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ6SWW8FR1S7FJEA9ADSKS9X",
+                                    "styleId": "FTSSMV37AQZ1WVWZ9FBYB395PWZ974MN"
+                                },
+                                {
+                                    "id": "01DZ45B40NHY79H4YR8JB15PKZ",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:closeIntro"
+                                    ],
+                                    "href": "01E25XVWGZ2JWWCNYZAAD0MA30",
+                                    "actions": {
+                                        "tap": {
+                                            "action": "closeintro"
+                                        }
+                                    },
+                                    "styleId": "PT2R93VDPANB7B9TTA4GJGDA9Q7KQFCN",
+                                    "text": {
+                                        "en": "Start"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B40N4Q3BY4B18V1CCZ6M",
+                                    "type": "component:text",
+                                    "styleId": "RDCHEB35GKQ7ZYVM14G2HZ5TX5JM6ETM",
+                                    "text": {
+                                        "en": "Allow notifications so Bravo Vision syncs with changes made in Bravo Studio."
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B40N828QP11YAQT4QP4N",
+                                    "type": "component:text",
+                                    "styleId": "BWF98PXTPE0KAXMK7FMX8YVPJZVGKD1G",
+                                    "text": {
+                                        "en": "Connect to updates made in Bravo"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B40N0SCPHTHGRZ58SJK0",
+                                    "type": "component:color",
+                                    "styleId": "3AMXD4P2HZCKXSSEY6N4EEDT71TYB0AW"
+                                },
+                                {
+                                    "id": "01DZ45B40NR95XHVQ0D3MT1MEM",
+                                    "type": "component:color",
+                                    "styleId": "JEKZBYV8B44AC5ZKH56YX4T6VCY9P22R"
+                                },
+                                {
+                                    "id": "01DZ45B40PKNSCECVJBV4HAPNW",
+                                    "type": "component:gif",
+                                    "assetId": "01DZ45B40PNFWYVCA93942XDAH",
+                                    "styleId": "8G7W9SRCSMS715MZ1DCS96Y4SHAAVETP"
+                                },
+                                {
+                                    "id": "01DZ45B4105YFQ2TQDNJVF3V6G",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "42BAJ5HC9P44RE95WR39T4EQN400RJB8"
+                                },
+                                {
+                                    "id": "01DZ45B410WK7NR64T02DWZ0NY",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "VZ09X41H0SD3493PM6ZW1QG5ZNXJ91TB"
+                                },
+                                {
+                                    "id": "01DZ45B4116DHVG4D49X4TMMSX",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "K5F1Q1390E3K1CBZZSCMDVDK2918J31G",
+                                    "text": {
+                                        "en": "Allow notifications"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B4111B8MH4ET6B70PGS6",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B4112RCJ5VWAETHPZ4VR",
+                                    "href": "01DZ45B411K72WSFKSW8YSBDWN",
+                                    "styleId": "Q3QQVN4TW04SDY0APPDV1J8J2ZEMV02A"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01E25XVWGZ2JWWCNYZAAD0MA30",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:login"
+                    ],
+                    "name": "Login",
+                    "background": {
+                        "id": "01E25XVWQ48W6ZDY49GEPN0CXY",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01E25XVWQ4M3KAVRYRJMNBH1SR",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01E25XVWH0GP3HW38TPWN86VMN",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                            "components": [
+                                {
+                                    "id": "01E25XVWH1QT74HA8601QRVXPK",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login"
+                                    ],
+                                    "actions": {
+                                        "tap": {
+                                            "action": "login"
+                                        }
+                                    },
+                                    "styleId": "A00FHDXHMPG08AJP67BA5S6174JSMHNY"
+                                },
+                                {
+                                    "id": "01E25XVWH1JGTFS6QMZSA2BZ8D",
+                                    "type": "component:color",
+                                    "styleId": "XXM3EWX6GS1X8W5EDK655PETYNKTMKS3"
+                                },
+                                {
+                                    "id": "01E25XVWH2P9XWPW9GC2KS2AFP",
+                                    "type": "component:text",
+                                    "styleId": "3AZ8BPHPCBQJ1EK5AGH29PV0R1C4J432",
+                                    "text": {
+                                        "en": "Enter your email"
+                                    }
+                                },
+                                {
+                                    "id": "01E25XVWH49BR9Y10E06JZQFQ0",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:openurl:https://codelesslabs.typeform.com/to/stHRKN"
+                                    ],
+                                    "actions": {
+                                        "tap": {
+                                            "action": "openurl",
+                                            "params": {
+                                                "url": "https://codelesslabs.typeform.com/to/stHRKN"
+                                            }
+                                        }
+                                    },
+                                    "styleId": "90NE1D9XWPFZTKV9ED0CJFSSWQ8E2KJ7",
+                                    "text": {
+                                        "en": "Report a bug"
+                                    }
+                                },
+                                {
+                                    "id": "01E25XVWH4E9TTV0TGG3HP4YPC",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login:apple"
+                                    ],
+                                    "actions": {
+                                        "tap": {
+                                            "action": "login",
+                                            "params": {
+                                                "provider": "apple"
+                                            }
+                                        }
+                                    },
+                                    "styleId": "629VWBHJCG81MS63DP1KSSKJMNVVWAB1"
+                                },
+                                {
+                                    "id": "01E25XVWH5M2CD0ZXFS1SXNFN8",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "dev:ignore:ios"
+                                    ],
+                                    "styleId": "7FB49KBRFC58VRKN80VA13RKS2Y4JJBT"
+                                },
+                                {
+                                    "id": "01E25XVWH5PC13XB1Z0J3W74K1",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:ignore:ios"
+                                    ],
+                                    "styleId": "5TFCNXX0S949AXKPG86P1JB2Y9N6BGTH",
+                                    "text": {
+                                        "en": "Sign in with Apple"
+                                    }
+                                },
+                                {
+                                    "id": "01E25XVWH6VVT80ETRXTJGP445",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "dev:ignore:ios"
+                                    ],
+                                    "assetId": "01E25XVWH7QAH3QQD5S05YZZAR",
+                                    "styleId": "C1BCTNP5W00KMBYWXJM37SBARRM76B4J"
+                                },
+                                {
+                                    "id": "01E25XVWH7FABTZ7T6R2EEEHNH",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login:google-oauth2"
+                                    ],
+                                    "actions": {
+                                        "tap": {
+                                            "action": "login",
+                                            "params": {
+                                                "provider": "google-oauth2"
+                                            }
+                                        }
+                                    },
+                                    "styleId": "26E3T42B5SK5BXSQ3QGBJNMS7KEJ9H14"
+                                },
+                                {
+                                    "id": "01E2BFCRXTDTN8BE89BEJC9K3V",
+                                    "type": "component:color",
+                                    "styleId": "F3GS456XFEDQQWZ9330GN7X7DS08T5W6"
+                                },
+                                {
+                                    "id": "01E25XVWH95FTFY24QJ20GZ9E4",
+                                    "type": "component:text",
+                                    "styleId": "H82B80P7AZ5SZTYN7A0NN36JFMF6C799",
+                                    "text": {
+                                        "en": "Sign in with Google"
+                                    }
+                                },
+                                {
+                                    "id": "01E25XVWH9MHYJD2T12KJC6CSC",
+                                    "type": "component:color",
+                                    "styleId": "6SWMGGWJ6MQQXH47N1GFVZ7DVJWTMXTE"
+                                },
+                                {
+                                    "id": "01E25XVWHAJXKEJJR5KGMSBTZ7",
+                                    "type": "component:svg",
+                                    "assetId": "01E25XVWHAVN73701WN1NM5KXS",
+                                    "styleId": "YBWBYHHP3K2DRRV2ZYWD4CEV9XM5G7W2"
+                                },
+                                {
+                                    "id": "01E25XVWHBHGEHVGTHF2X4KEAA",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:login:Figma"
+                                    ],
+                                    "actions": {
+                                        "tap": {
+                                            "action": "login",
+                                            "params": {
+                                                "provider": "Figma"
+                                            }
+                                        }
+                                    },
+                                    "styleId": "N5ZWYPMCN7RMJYNZAM6B13KANZY17QHN"
+                                },
+                                {
+                                    "id": "01E25XVWHBZCFZ8RW33AG46EQB",
+                                    "type": "component:color",
+                                    "styleId": "GYJ7G8GZMX5YVH5NEYC4RM5F1Z6SPX4K"
+                                },
+                                {
+                                    "id": "01E25XVWHC3TZWJQZD8DADG4Y9",
+                                    "type": "component:svg",
+                                    "assetId": "01E2DACQV8Z1534X6TA0SYSPTF",
+                                    "styleId": "8MW79X688VDTC0B64D8KZD5WG2DAB81R"
+                                },
+                                {
+                                    "id": "01E25XVWHEV6Z4CYV7Y6C3H47N",
+                                    "type": "component:text",
+                                    "styleId": "73MBWKRXTK9PN8M0Z8FZX6N5QQW3HZH9",
+                                    "text": {
+                                        "en": "Sign in with Figma"
+                                    }
+                                },
+                                {
+                                    "id": "01E25XVWHESZDV49T5DWC9AERC",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "action:openIntro"
+                                    ],
+                                    "assetId": "01E25XVWHF5R85C6VC15Y4PSWR",
+                                    "href": "01DZ45B3ZG3FWD2JHQDMXJ1CKR",
+                                    "actions": {
+                                        "tap": {
+                                            "action": "openintro"
+                                        }
+                                    },
+                                    "styleId": "0VTEEGTXSHK61HG1PXG8KSGY3EFX4CVJ"
+                                },
+                                {
+                                    "id": "01E25XVWHGMKS0C8MVPQ08SK54",
+                                    "type": "component:text",
+                                    "styleId": "FYVPT63MP98WY126KC2D4AYST09XBPXJ",
+                                    "text": {
+                                        "en": "Bravo Vision"
+                                    }
+                                },
+                                {
+                                    "id": "01E25XVWHGN875W9QZF6CRR4C8",
+                                    "type": "component:image",
+                                    "tags": [
+                                        "dev:scan"
+                                    ],
+                                    "assetId": "01DZ45B424F3TSV0WF8BKPZE2Y",
+                                    "styleId": "9CJ5GRVNASSY0P9C16GNW9G4VGST2F2N"
+                                },
+                                {
+                                    "id": "01E25XVWHH9WY0XWEDY2XA6KNQ",
+                                    "type": "component:text",
+                                    "styleId": "Z9PVPMFZAKH04XJFG1NV3M3YNYM52M92",
+                                    "text": {
+                                        "en": "OR"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ45B3ZG3FWD2JHQDMXJ1CKR",
+                    "type": "page:default",
+                    "name": "About Vision",
+                    "background": {
+                        "id": "01DZ46TS5R6B3NA9Y4ZBRPSW6B",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46TS5RNN9D4M355TAT0AT8",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "04XV685Z7YNJWTZFCJZ0G0KX7VARQZ1D"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZVKSPDSB7C95YQAAW5SGDB3",
+                            "type": "container:default",
+                            "styleId": "X90ASZQJE0XRTERJEHHEPK2Z2G8MQ8TX",
+                            "components": [
+                                {
+                                    "id": "01DZVKSPDTMY4JRRP9BJ7W1WE7",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "display:fullscreen"
+                                    ],
+                                    "styleId": "8537NP2GMX2SJMSFB233FZMHH3PTM3HK"
+                                },
+                                {
+                                    "id": "01DZ45B3ZHAT58RG1JYXJMKNVR",
+                                    "type": "component:text",
+                                    "styleId": "E735EZC41JE6A742EAWGG7F90645RA0M",
+                                    "text": {
+                                        "en": "About Bravo Vision"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B3ZJWQDMKAT1NHQ9Z01Q",
+                                    "type": "component:text",
+                                    "styleId": "EQ12FEH2Y8SFRF92MEG4294966KGA3NY",
+                                    "text": {
+                                        "en": "Sign in to Bravo Vision with your Bravo Studio account to access all of your app projects."
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B3ZJMKJ081GYBRQH705A",
+                                    "type": "component:text",
+                                    "styleId": "8WSNYZDNEVD5N5P1DSSXJJ2281BBT3E1",
+                                    "text": {
+                                        "en": "Once signed in, select an app to test it out on your mobile phone."
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B3ZJ1MC1YX2W65W1JCVM",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B3ZKXXVH9KBRJVMPQPY8",
+                                    "styleId": "V0T86HT4GA31WM0YR2EQWQ090QA17AHK"
+                                },
+                                {
+                                    "id": "01DZ45B3ZKG435M0SA2HMR9VPM",
+                                    "type": "component:text",
+                                    "styleId": "0GDEZJBPX4KKXVVHSNRHETQG4CB7F1DM",
+                                    "text": {
+                                        "en": "Long press to activate a pop-up screen which allows you to update changes with Bravo Studio or exit the current app."
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B3ZN6P4ATYCZJF6PSMPB",
+                                    "type": "component:color",
+                                    "styleId": "C0Y0R3REFBQT9D108AKTSJ5CZKG8DYW0"
+                                },
+                                {
+                                    "id": "01DZ45B3ZPJG9D1ZEF7Q4PRS7R",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B3ZPEDYMJV6NH30E0ZKE",
+                                    "styleId": "GS5YF1YXXMKMNB9468XEQ5HQ49ZV0FFD"
+                                },
+                                {
+                                    "id": "01DZ45B3ZPAD6PCN5861TNZ51V",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B3ZQ6M71DHCR6W1SRENW",
+                                    "styleId": "PEF8SCVKJ3D90YHK4TTJKGB6EGNRAWY9"
+                                },
+                                {
+                                    "id": "01DZ45B3ZMJ7XBKHZHHMYXTA4W",
+                                    "type": "component:svg",
+                                    "assetId": "01E4408JZSMTE1ZWFTKVC94E2P",
+                                    "styleId": "1EBP64CER4GP1H1RKQAJ4EP70D67Y83Y"
+                                },
+                                {
+                                    "id": "01DZVKSPE3NG2DK7D81TND19Q3",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:close"
+                                    ],
+                                    "href": "01E25XVWGZ2JWWCNYZAAD0MA30",
+                                    "actions": {
+                                        "tap": {
+                                            "action": "close"
+                                        }
+                                    },
+                                    "styleId": "0CWHHG1M64RJVYPKGHWQDAQJ9B6K6QZY"
+                                },
+                                {
+                                    "id": "01DZVKSPE5PTMXCV3D7Z83JAN9",
+                                    "type": "component:svg",
+                                    "assetId": "01DZVKSPE5VKQAHSSVB64DTT5S",
+                                    "styleId": "GDB16KC75X83RTT4MT0NB6SDK6EPDBAE"
+                                },
+                                {
+                                    "id": "01DZVKSPE6S3ADTCZ5PF5DVD3R",
+                                    "type": "component:svg",
+                                    "assetId": "01DZVKSPE63E0VHE3AQ174S9A2",
+                                    "styleId": "GDB16KC75X83RTT4MT0NB6SDK6EPDBAE"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ45B400JMZMPB4MYNFCNQND",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:pullToRefresh",
+                        "states:empty:projects"
+                    ],
+                    "name": "App list empty",
+                    "background": {
+                        "id": "01DZ45B4240G71CVSYMDXWEGGE",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ45B424JKP5AVPPTD66EREQ",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                            }
+                        ]
+                    },
+                    "topBar": {
+                        "id": "01DZ45B401R8HVWGCD1CYEYA8R",
+                        "type": "container:top-bar",
+                        "styleId": "EE5H61CNF3HSFBTYAXR4JY8GNX0MZDBE",
+                        "components": [
+                            {
+                                "id": "01DZVKSPE89D6TB4FY44V6WJ1N",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:openintro"
+                                ],
+                                "assetId": "01DZVKSPE993VE4N7CT8R5Q846",
+                                "href": "01DZ45B41BK92AKGSA6ZY6SHRJ",
+                                "actions": {
+                                    "tap": {
+                                        "action": "openintro"
+                                    }
+                                },
+                                "styleId": "KCDYK7JM8FZHJPRX76507W4KCJDG6NSH"
+                            },
+                            {
+                                "id": "01DZ45B403ZHAR3XFC4P9B7KFW",
+                                "type": "component:text",
+                                "styleId": "0KZ7SBY2298VZBGB3B7K85706NBR7QCX",
+                                "text": {
+                                    "en": "Projects"
+                                }
+                            },
+                            {
+                                "id": "01DZ45B403RGWTN8KHAKHSWJM9",
+                                "type": "component:svg",
+                                "tags": [
+                                    "action:logout"
+                                ],
+                                "assetId": "01DZ46TS28T1Q4QX1H3PE4J1DT",
+                                "actions": {
+                                    "tap": {
+                                        "action": "logout"
+                                    }
+                                },
+                                "styleId": "2A2P2ZEXN3BTN961DQFKYNZS8NC7E696"
+                            },
+                            {
+                                "id": "01DZ45B40488ES0C69ZCHPP24T",
+                                "type": "component:color",
+                                "tags": [
+                                    "action:openurl:https://codelesslabs.typeform.com/to/stHRKN"
+                                ],
+                                "actions": {
+                                    "tap": {
+                                        "action": "openurl",
+                                        "params": {
+                                            "url": "https://codelesslabs.typeform.com/to/stHRKN"
+                                        }
+                                    }
+                                },
+                                "styleId": "D2G930AJHQMYBFJ69QF0Q94VJWTEN8F8"
+                            },
+                            {
+                                "id": "01DZ45B404GDF6N29NVE9ZPJ84",
+                                "type": "component:svg",
+                                "assetId": "01DZ45B404W9E3R6YYA2EPZ040",
+                                "styleId": "6WVK5DNK662FQZTZPE6TAZ9G0ZHEPK8N"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ45B4057HXZX0WAZ5E2BCD7",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "W19P0JEMRQX2DAH3WS5YHHWGTCWJJPGP",
+                            "components": [
+                                {
+                                    "id": "01DZ45B4054T4106FVBSJN8H91",
+                                    "type": "component:text",
+                                    "styleId": "49HA86EA14MXP1N1W0RC9BGZSPYYH30H",
+                                    "text": {
+                                        "en": "No projects yet!"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B405Z4CBWFJGA86G7GQS",
+                                    "type": "component:text",
+                                    "styleId": "2GY075CRYRNGS68JC392VBA75YHG0Q6E",
+                                    "text": {
+                                        "en": "Sign in to Bravo Studio on the desktop browser to create your first app."
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B405KX42Z66V4GR74587",
+                                    "type": "component:image",
+                                    "assetId": "01DZ45B425QAH1KFRNDHYXK954",
+                                    "styleId": "GCPQW5P9QRV034ZDH4D7KCCBXHSFBDR0"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "01DZ45B405STDZ8N44S6WBW58T",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:pullToRefresh",
+                        "states:default:projects"
+                    ],
+                    "name": "App list",
+                    "start": true,
+                    "remote": "https://apps-service-dev.bravostudio.app/devices/apps/01DZ45B3ZB6P5M1WB44NY803ZJ/node/01DZ45B405STDZ8N44S6WBW58T"
+                },
+                {
+                    "id": "01DZ45B40BQWDS6KEGBMC8S0AH",
+                    "type": "page:default",
+                    "tags": [
+                        "dev:page-unlink"
+                    ],
+                    "name": "FRAME",
+                    "background": {
+                        "id": "01DZ46TS5Z3EM8BAC8YXAJVEYT",
+                        "type": "container:background",
+                        "tags": [
+                            "bravo:layer"
+                        ],
+                        "styleId": "BBZ5EDZ0BPW3B1J1YPAX89AGSNZ8NA1A",
+                        "components": [
+                            {
+                                "id": "01DZ46TS60QYJ7TF01WJ51DXSX",
+                                "type": "component:color",
+                                "tags": [
+                                    "bravo:layer"
+                                ],
+                                "styleId": "C5XAVCQH4NRZ72QP6BB69VHBRH0KRCV8"
+                            }
+                        ]
+                    },
+                    "body": [
+                        {
+                            "id": "01DZ45B40C7WY8ZTM32RQVHB86",
+                            "type": "container:default",
+                            "tags": [
+                                "display:fullscreen"
+                            ],
+                            "styleId": "ZYWZKATX28EHGNTD93SAKWMTEPNVN2H2",
+                            "components": [
+                                {
+                                    "id": "01DZ45B40CYXC5ZM4NXGEAA6B6",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "dev:buildnumber"
+                                    ],
+                                    "styleId": "WMCF9C4Z9G7V7RRT1DVDBGRY6Y6WK0N7",
+                                    "text": {
+                                        "en": "Build number"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B40CX6JCNF3AR7F08EE7",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:update"
+                                    ],
+                                    "actions": {
+                                        "tap": {
+                                            "action": "update"
+                                        }
+                                    },
+                                    "styleId": "MHTAX78FKG2M6VZRW42M808K57Z14CRN"
+                                },
+                                {
+                                    "id": "01DZ45B40C7S6WZ3JNH0JMKS02",
+                                    "type": "component:color",
+                                    "styleId": "291DJKDAEES9KKMVGGWN0B4Y0X22GTQQ"
+                                },
+                                {
+                                    "id": "01DZ45B40DBEP5W04KEZXQ3EZ4",
+                                    "type": "component:text",
+                                    "styleId": "CNAZJVJC6SBEZCB36Q8H5Z7GKM03ECJ9",
+                                    "text": {
+                                        "en": "Update with Bravo"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B40D4F19EHBRP9DAG0Y9",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B40DVBBVV7R6NFQ96KFZ",
+                                    "styleId": "AYQND2XRER180ZQKKAJ553A76BPBQE6C"
+                                },
+                                {
+                                    "id": "01DZ45B40D74JYEMPFBYV6YJRQ",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:unlink"
+                                    ],
+                                    "href": "01DZ45B405STDZ8N44S6WBW58T",
+                                    "actions": {
+                                        "tap": {
+                                            "action": "unlink"
+                                        }
+                                    },
+                                    "styleId": "S7TYCXW0HPVX1182FRRP5625NYXAMTRX"
+                                },
+                                {
+                                    "id": "01DZ45B40DN70TK8XEWQ160JCJ",
+                                    "type": "component:color",
+                                    "styleId": "W97GWF37P0VMMMJAYET4DY11R4S7CNQZ"
+                                },
+                                {
+                                    "id": "01DZ45B40EAGZ6C79WJA7SJX82",
+                                    "type": "component:text",
+                                    "styleId": "XYY6BN3PVYNBM5XZTQ2Q291VVVV3FDQ5",
+                                    "text": {
+                                        "en": "Exit app project"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B40ERXAZZWSBSDHTVSRW",
+                                    "type": "component:color",
+                                    "styleId": "244R0S34REBP00H0CN2CHBZTNFJ187K4"
+                                },
+                                {
+                                    "id": "01DZ45B40E9J3VVH7GHWFPE9WF",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B40FG523RV6KV11H6AZW",
+                                    "styleId": "KNGEVEG3BBDVQY40BDAMXH64Y8NNWXT9"
+                                },
+                                {
+                                    "id": "01DZ45B40FTXZ4CWW8BH0XH1NC",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B40F52DK9BSWY086AD82",
+                                    "styleId": "87NYWSH1KKB9Y5KPQEMAEGP06VX30FN6"
+                                },
+                                {
+                                    "id": "01DZ45B40F405MM35ZZZ8AEE6J",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "E1EWAS1SP0KPP0ZS5WFXCD7KSJYK4DJ9"
+                                },
+                                {
+                                    "id": "01DZ45B40GGFSGASS7C45G64K3",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "FPMGA2NFB7BQ21VHFCBDCB44KZJNAE1B"
+                                },
+                                {
+                                    "id": "01DZ45B40GQB2TE5PT7NZQCYVY",
+                                    "type": "component:text",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "181NQ03CG4MVYN0DAEPZJPXH4WRXD86M",
+                                    "text": {
+                                        "en": "Enable automatic update"
+                                    }
+                                },
+                                {
+                                    "id": "01DZ45B40GHNQ61VMWK8XV5GFX",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "styleId": "Y64MV314XJZ84WEWJEH1V2CNAWFTDTMT"
+                                },
+                                {
+                                    "id": "01DZ45B40HHY9Q8PZEFNDNVBFQ",
+                                    "type": "component:svg",
+                                    "tags": [
+                                        "action:enableNotifications"
+                                    ],
+                                    "assetId": "01DZ45B40HMS9W111PMXHHCDXA",
+                                    "styleId": "WQF451XMKD46FP8FFQJ4FCFX2PE1V1VP"
+                                },
+                                {
+                                    "id": "01DZ45B40HBHWR3QQE0AKTDB3E",
+                                    "type": "component:color",
+                                    "tags": [
+                                        "action:close"
+                                    ],
+                                    "actions": {
+                                        "tap": {
+                                            "action": "close"
+                                        }
+                                    },
+                                    "styleId": "0CWHHG1M64RJVYPKGHWQDAQJ9B6K6QZY"
+                                },
+                                {
+                                    "id": "01DZ45B40H78D6WKQ5VB6JNA2E",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B40J3T7W6VFR1EWJ277J",
+                                    "styleId": "GDB16KC75X83RTT4MT0NB6SDK6EPDBAE"
+                                },
+                                {
+                                    "id": "01DZ45B40J9VW49A8RHVMHEHVH",
+                                    "type": "component:svg",
+                                    "assetId": "01DZ45B40JJNTGB3GAWE1CJ42F",
+                                    "styleId": "GDB16KC75X83RTT4MT0NB6SDK6EPDBAE"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
